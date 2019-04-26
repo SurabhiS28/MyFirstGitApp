@@ -1,7 +1,3 @@
-console.log("hiiii");
-
-console.log("hiiii");
-
 const express=require('express');
 const router=express.Router();
 
@@ -12,3 +8,6 @@ router.get('/movies',(request,response)=>{
 });
 
 module.exports=router;
+console.log("hiiii");
+console.log("hiiii");
+console.log("hiiii");
